@@ -10,6 +10,7 @@ namespace MidtermGroup
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
